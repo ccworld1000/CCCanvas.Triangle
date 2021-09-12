@@ -1,9 +1,9 @@
-.DS_Store
-Podfile.lock
-
 Pods
 CCCanvas.Triangle.OC/Pods
 CCCanvas.Triangle.Swift/Pods
+
+.DS_Store
+Podfile.lock
 
 # Xcode
 #
@@ -73,3 +73,4 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
